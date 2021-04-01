@@ -1,2 +1,2 @@
-# encryption-testing
+# LemonCypher
 Testing basic .net encryption methods
