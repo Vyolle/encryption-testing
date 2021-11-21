@@ -6,7 +6,7 @@ open System.CommandLine.Invocation
 open LemonCypher
 
 module Program =
-  let password = "5f042e659d16ada62bd286483a753db6"
+  let password = "5f042e659d16ada62bd286483a753db6" //default password is bad and should be read from commandline
 
   (*Defining the commands, their parameters, and the handler functions for when they are used*)
   let decryptCommand =
